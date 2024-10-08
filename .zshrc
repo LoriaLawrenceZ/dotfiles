@@ -78,8 +78,8 @@ plugins=(
     tmux
 )
 # Start the tmux automatically
-ZSH_TMUX_AUTOSTART=true
-ZSH_TMUX_DEFAULT_SESSION_NAME=coding
+ZSH_TMUX_AUTOSTART=false
+ZSH_TMUX_DEFAULT_SESSION_NAME=genesis
 
 source $ZSH/oh-my-zsh.sh
 
